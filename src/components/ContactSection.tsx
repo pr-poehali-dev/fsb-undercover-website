@@ -6,19 +6,19 @@ const ContactSection = () => {
     {
       icon: "Phone",
       label: "Защищенная связь",
-      value: "+7 (***) ***-**-42",
+      value: "+7 (***) ***-**-15",
       description: "Только для служебных целей",
     },
     {
       icon: "Mail",
       label: "Шифрованная почта",
-      value: "a.n@secure.fsb.ru",
+      value: "t.z@secure.youth-ops.ru",
       description: "PGP ключ доступен по запросу",
     },
     {
       icon: "MessageSquare",
       label: "Secure Messenger",
-      value: "@AlexN_FSB",
+      value: "@TimurZ_Agent",
       description: "Signal, проверенный контакт",
     },
   ];

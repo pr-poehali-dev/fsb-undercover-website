@@ -18,7 +18,7 @@ const HeroSection = () => {
 
         {/* Main heading */}
         <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 font-montserrat">
-          Алексей Н.
+          Тимур З.
         </h1>
 
         {/* Subtitle */}
@@ -35,16 +35,16 @@ const HeroSection = () => {
         {/* Key stats */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12 max-w-2xl mx-auto">
           <div className="text-center">
-            <div className="text-3xl font-bold text-sky-400 mb-2">15+</div>
-            <div className="text-slate-300">Лет опыта</div>
+            <div className="text-3xl font-bold text-sky-400 mb-2">2+</div>
+            <div className="text-slate-300">Года в деле</div>
           </div>
           <div className="text-center">
-            <div className="text-3xl font-bold text-sky-400 mb-2">200+</div>
+            <div className="text-3xl font-bold text-sky-400 mb-2">15+</div>
             <div className="text-slate-300">Операций</div>
           </div>
           <div className="text-center">
             <div className="text-3xl font-bold text-sky-400 mb-2">100%</div>
-            <div className="text-slate-300">Конфиденциальность</div>
+            <div className="text-slate-300">Легенда прикрытия</div>
           </div>
         </div>
 
